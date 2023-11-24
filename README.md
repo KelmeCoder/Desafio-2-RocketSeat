@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-Acesse o projeto finalizado,<a href="https://KelmeCoder.github.io/Desafio2-RocketSeat" target="blank"> online.</a>
+Acesse o projeto finalizado,<a href="https://KelmeCoder.github.io/Desafio-2-RocketSeat" target="blank"> online.</a>
